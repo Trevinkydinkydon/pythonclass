@@ -1,0 +1,39 @@
+print(1+1)
+print(1-1)
+print(1*1)
+print(1/1)
+print(1 + 1.0)
+print((2 + 2) / 5 ** 2)
+
+x=2 
+
+# <, >, ==, !=, <=, >=
+
+print(x == 2 and x != 1)
+print(x == 3 or x == 2)
+print("string" == "strang" or "" == " ")
+
+Logic
+And/or
+An and statement will only print true if both conditions are true
+An or statement will only print true if at least statement is true
+<, >, ==, !=, <=, >=
+Math
++,-,*,/ are normal. The only difference is / returns a float\
+Division
+Regular division /
+Floor division //
+Floors the number
+Modulo %
+Gives the remainder
+Powers
+Use **
+Order of operations is used
+
+count = 0
+print(count)
+count +=1
+print(count)
+
+For x in range(10) 
+    Count += 1
